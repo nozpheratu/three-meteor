@@ -1,0 +1,8 @@
+{
+	"name": "three.js",
+	"description": "A very small package for the core three.js functionality.",
+	"homepage": "https://github.com/nozpheratu/three-meteor",
+	"author": "nozpheratu",
+	"version": "2013 04 17 - r58",
+	"git": "https://github.com/nozpheratu/three-meteor"
+}
